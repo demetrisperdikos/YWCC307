@@ -1,1 +1,0 @@
-In this presentation I go over the importance of developing cyber security so that quantum computers are less threatening. I go over the issues of quantum computing in cyber security and go over a few possible developments to lower the risk of these computers stealing data.
